@@ -1,0 +1,11 @@
+{
+    "android": {
+        "release": {
+            "keystore": "keysignerjks.keystore",
+            "storePassword": "hppaviliondv6630m",
+            "alias": "ffakey",
+            "password" : "xperiax",
+            "keystoreType": ""
+        }
+    }
+}
